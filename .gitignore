@@ -1,0 +1,14 @@
+# Local student data: never publish real student records
+students.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
