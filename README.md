@@ -135,4 +135,4 @@ Student-Management-Record/
 ## Author
 
 Individual assignment submission for PROG211, Limkokwing University of Creative Technology, Sierra Leone.
-Author: *[your full name and student number]*
+Author: EGINEER MOHAMED S KAMARA 905006266 
